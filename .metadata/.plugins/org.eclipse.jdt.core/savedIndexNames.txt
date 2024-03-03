@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\Ansh\Desktop\casetools lab\.metadata\.plugins\org.eclipse.jdt.core
+3645874777.index
+3287562986.index
+1865797976.index
+2226932423.index
+3692866064.index
